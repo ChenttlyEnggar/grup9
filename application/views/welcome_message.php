@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>HOME</title>
+    <title>Vita</title>
 	<script type="text/javascript" language="javascript" src="<?php echo base_url() ?>media/js/jquery.dataTables.js"></script>
 		<script type="text/javascript" language="javascript" src="<?php echo base_url() ?>media/js/jquery.dataTables.min.js"></script>
 		<script type="text/javascript" language="javascript" src="<?php echo base_url() ?>media/js/jquery.js"></script>
@@ -82,5 +82,12 @@
 						<?php endforeach; ?>
 						<?php echo br(15); ?>
 <?php $this->load->view('layout/footer')?>
+
+ <?php
+if(isset($links)) {
+  echo $links;
+}
+?>
 	</body>
 </html>
+

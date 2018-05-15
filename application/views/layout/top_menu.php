@@ -18,7 +18,7 @@
 				  <ul class="nav navbar-nav menu__list">
 					<li class=" menu__item menu__link" ><?php echo anchor('welcome/index', 'HOME');?>
 					<li class=" menu__item menu__link"><?php echo anchor('welcome/index', 'ABOUT ');?>
-					<li class=" menu__item menu__link"><?php echo anchor('welcome/index', 'CONTACT');?>
+					<!-- ?--<li class=" menu__item menu__link"><?php echo anchor('welcome/index', 'CONTACT');?>-->>
 					<li class=" menu__item menu__link"><?php echo anchor('login', 'ACCOUNT');?>
 				  </ul>
 				</div>

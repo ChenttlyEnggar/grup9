@@ -4,6 +4,7 @@
 			<div class="col-md-1"></div>
 			<div class="col-md-10">	
 				<h1>Tambah Product</h1>
+				<!-- untuk menampilkan foto -->
 				<div><?= validation_errors()?></div>
 				<?= form_open_multipart('admin/products/create',['class'=>'form-horizontal']) ?>
 						  <div class="form-group">

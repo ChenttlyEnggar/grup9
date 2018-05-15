@@ -183,7 +183,7 @@ F<!DOCTYPE html>
 	
 	<hr />
 
-	<footer id="footer" class="vspace20">
+	<!-- <footer id="footer" class="vspace20">
 		<div class="container">
 			<div class="row">
 				<div class="span4">
@@ -220,14 +220,14 @@ F<!DOCTYPE html>
 
 			<div class="row">
 				<div class="span6">
-					<p>&copy; Copyright 2012.&nbsp;<a href="#">Privacy</a>&nbsp;&amp;&nbsp;<a href="#">Terms and Conditions</a></p>
+					<p>&copy; Copyright 2018.&nbsp;<a href="#">Privacy</a>&nbsp;&amp;&nbsp;<a href="#">Terms and Conditions</a></p>
 				</div>
 				<div class="span6">
 					<a class="pull-right" href="http://www.responsivewebmobile.com" target="_blank">credits by grup 9 /a>
 				</div>
 			</div>
 		</div>
-	</footer>	
+	</footer>	 -->
 
 	<script src="./js/jquery-1.10.0.min.js"></script>
 	<script src="./js/bootstrap/js/bootstrap.min.js"></script>
